@@ -1,0 +1,30 @@
+
+
+body{
+    background-color: whitesmoke;
+}
+
+.title{
+    display: grid;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.title h1{
+    font-size: 200px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title p{
+    font-size: 50px;
+    margin-left: 50%;
+}
+
+.navbar{
+    display: grid;
+    justify-content: center;
+}
+

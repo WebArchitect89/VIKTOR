@@ -1,0 +1,22 @@
+body {
+  font-family: "Caveat", cursive;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Montserrat", sans-serif;
+  background-color: whitesmoke;
+}
+
+.statementContainer {
+  display: grid;
+  height: 800px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  justify-self: center;
+}
+
+p {
+  justify-self: center;
+}
