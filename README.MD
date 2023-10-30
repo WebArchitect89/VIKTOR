@@ -40,6 +40,7 @@ Hour 5: Launch the website and share with others in the Q&A for feedback, make a
 - [Description](#Description)
 - [Installation](#Installation)
 - [Credits](#credits)
+- [Features](#Features)
 - [License](#license)
 
 
@@ -72,6 +73,19 @@ In order to check the project out you can do the following:
 - [ Bootstrap](https://getbootstrap.com/) 
 - [ w3schools](https://www.w3schools.com/) 
 - [ Ileriayo Adebiyi](https://github.com/Ileriayo) 
+
+## Features
+
+
+- A page that provides a personal statement.
+
+- A resume page that lists education, work experience, skills, and other relevant information.
+
+- A section that showcases any projects or work done in the past.
+
+- A contact me section that includes information for users to get in touch.
+
+
 ## License
 
 MIT License
