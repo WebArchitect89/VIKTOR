@@ -4,3 +4,9 @@ body {
     font-family: "Montserrat", sans-serif;
     background-color: whitesmoke;
   }
+
+  .gmailForm{
+    display: grid;
+    height: 100vh;
+    justify-content: center;
+  }
